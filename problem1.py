@@ -1,7 +1,7 @@
 from random import randrange
 
 result =randrange(0, 1000)
-print (result)
+
 
 
 print ("Enter a number 0 through 1000")
